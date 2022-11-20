@@ -13,4 +13,4 @@ function par_impar(){
 
 let valor= par_impar()
 
-console.log(valor)
+console.log(valor) 
